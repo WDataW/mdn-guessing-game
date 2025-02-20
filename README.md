@@ -3,7 +3,7 @@ A guessing game. Guess a number from 1-100 with 10 attempts only! Note: this gam
 
 ![Screenshot](preview.png)
 
-[Live Demo](https://wdataw.github.io/guessing-game/)
+[Live Demo](https://wdataw.github.io/mdn-guessing-game/)
 
 ## Features:
 - Gives hints after each attempt.
